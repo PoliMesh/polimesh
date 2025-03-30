@@ -1,0 +1,10 @@
+id,name,term_start,term_end,party
+1,Ronald Reagan,1981-01-20,1989-01-20,Republican
+2,George H. W. Bush,1989-01-20,1993-01-20,Republican
+3,Bill Clinton,1993-01-20,2001-01-20,Democratic
+4,George W. Bush,2001-01-20,2009-01-20,Republican
+5,Barack Obama,2009-01-20,2017-01-20,Democratic
+6,Donald Trump,2017-01-20,2021-01-20,Republican
+7,Joe Biden,2021-01-20,2025-01-20,Democratic
+8,Donald Trump,2025-01-20,,Republican
+
